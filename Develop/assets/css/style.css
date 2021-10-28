@@ -198,3 +198,14 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+.beegfunkinpic {
+    width:100%;
+    height:auto;
+    margin-right: 20px;
+}
+
+.picwrap {
+    height:auto;
+    width:100%;
+}
